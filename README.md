@@ -2,7 +2,7 @@
 
 This repository contains a React Compound Component POC that demonstrates the compound component pattern to create an accordion component with sections.
 
-<video src="./public/demo.mov"></video>
+![Compound component POC](./public/demo.png)
 
 ## Features
 
